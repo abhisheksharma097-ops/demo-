@@ -1,2 +1,3 @@
 # demo-
-First Github Repository 
+This is my First Github Repository 
+Author Abhishek sharma 
